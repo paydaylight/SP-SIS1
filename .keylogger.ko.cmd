@@ -1,0 +1,1 @@
+cmd_/home/paydaylight/sis1/keylogger.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/paydaylight/sis1/keylogger.ko /home/paydaylight/sis1/keylogger.o /home/paydaylight/sis1/keylogger.mod.o ;  true
